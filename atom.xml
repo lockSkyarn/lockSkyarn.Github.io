@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GoLuyuan</title>
+  
+  <subtitle>Go ahead and prove yourself</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-11-08T13:24:45.311Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>LuyuanCui</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>唯有成长令人喜悦</title>
+    <link href="http://yoursite.com/2019/11/08/NewBegin/"/>
+    <id>http://yoursite.com/2019/11/08/NewBegin/</id>
+    <published>2019-11-08T12:56:56.000Z</published>
+    <updated>2019-11-08T13:24:45.311Z</updated>
+    
+    <content type="html"><![CDATA[<p>真正能让你成长的永远是你做的努力和工作<br>工具只是让你做这些事情更快<br>但如果你自己本身不去做这件事情<br>再好的工具也毫无意义 </p><a id="more"></a> <p>不忘初心 </p><p>这是你专业的崭新起点<br>希望你不负它的价值<br>利用它去看更广更大更开阔的世界<br>去实现自己的梦想<br>去成为自己想成为的人 </p><p>in real open source, you have the right to control your own destiny<br>小鸣如此努力<br>大鸣如此努力<br>努力的榜样就在身边<br>不要放弃，不要害怕，不要自暴自弃<br>只要你愿意，你的人生从此刻就是崭新的开始<br>现在开始书写你的时间线吧 </p><p>起跑虽晚，但努力赶上<br>坚持就是胜利 </p><p>2019.11.8 开始书写你的时间 </p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真正能让你成长的永远是你做的努力和工作&lt;br&gt;工具只是让你做这些事情更快&lt;br&gt;但如果你自己本身不去做这件事情&lt;br&gt;再好的工具也毫无意义 &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="朝花夕拾" scheme="http://yoursite.com/categories/%E6%9C%9D%E8%8A%B1%E5%A4%95%E6%8B%BE/"/>
+    
+    
+      <category term="时光机" scheme="http://yoursite.com/tags/%E6%97%B6%E5%85%89%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/11/08/hello-world/"/>
+    <id>http://yoursite.com/2019/11/08/hello-world/</id>
+    <published>2019-11-08T12:18:03.172Z</published>
+    <updated>2019-11-08T13:24:37.032Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a> <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
