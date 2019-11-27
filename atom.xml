@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-10T07:29:37.897Z</updated>
+  <updated>2019-11-27T02:21:35.191Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Structural-context Similarities for Uncertain Graphs</title>
+    <link href="http://yoursite.com/2019/11/27/Structural-context%20Similarities%20for%20Uncertain%20Graphs/"/>
+    <id>http://yoursite.com/2019/11/27/Structural-context Similarities for Uncertain Graphs/</id>
+    <published>2019-11-27T02:14:09.000Z</published>
+    <updated>2019-11-27T02:21:35.191Z</updated>
+    
+    <content type="html"><![CDATA[<p>本文为 Structural-context Similarities for Uncertain Graphs 一文的阅读笔记</p><a id="more"></a><h2 id="0-记录"><a href="#0-记录" class="headerlink" title="0. 记录"></a>0. 记录</h2><p>阅读了 Structural-context Similarities for Uncertain Graphs</p><p>论文笔记</p><h2 id="1-主旨"><a href="#1-主旨" class="headerlink" title="1. 主旨"></a>1. 主旨</h2><p><strong>解决什么问题？</strong></p><p>uncertainty is inherent in massive graph data, and therefore the classical deﬁnitions of structural-context similarities on exact graphs don’t make sense on uncertain graphs. </p><p>海量图数据本身就具有不确定性，因此确定图上的 structural-context similarities 的经典定义在不确定图上是没有意义的</p><h2 id="2-研究方法"><a href="#2-研究方法" class="headerlink" title="2. 研究方法"></a>2. 研究方法</h2><ol><li>研究的数据从哪里来？</li><li>研究中用到的重要指标有哪些？</li><li>模型分为哪几步？每一步分别得出了什么结论？</li></ol>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;本文为 Structural-context Similarities for Uncertain Graphs 一文的阅读笔记&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="不周山" scheme="http://yoursite.com/categories/%E4%B8%8D%E5%91%A8%E5%B1%B1/"/>
+    
+    
+      <category term="论文阅读" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="Uncertain Graph" scheme="http://yoursite.com/tags/Uncertain-Graph/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高效学习</title>
     <link href="http://yoursite.com/2019/11/10/high-productivity/"/>
     <id>http://yoursite.com/2019/11/10/high-productivity/</id>
     <published>2019-11-10T07:15:23.000Z</published>
-    <updated>2019-11-10T07:29:37.897Z</updated>
+    <updated>2019-11-27T02:20:23.990Z</updated>
     
     <content type="html"><![CDATA[<p>本文为<a href="https://www.yuque.com/zenany/up/high_productivity_work#jrxSF" target="_blank" rel="noopener">高效工作</a>的笔记，为我所用，思考在学习中使用</p><a id="more"></a> <p><strong>产出 = 单位时间产能 × 有效学习时间</strong>，要做到高产出，有两条路：</p><ul><li>增加有效学习时间</li><li>提高单位时间的产能</li></ul><h2 id="增加有效工作时间"><a href="#增加有效工作时间" class="headerlink" title="增加有效工作时间"></a>增加有效工作时间</h2><h3 id="秘诀一：打造免打扰的学习环境"><a href="#秘诀一：打造免打扰的学习环境" class="headerlink" title="秘诀一：打造免打扰的学习环境"></a>秘诀一：打造免打扰的学习环境</h3><p>思考自己每天浪费的时间</p><ul><li>看视频</li><li>聊天</li><li>玩游戏</li></ul><p><strong>避免受到引诱</strong></p><ol><li>关闭所有通知</li><li>删除 ipad 和 iphone 上的视频娱乐软件</li></ol><p>不用担心被贴上响应不及时的标签，因为：重要的事情对方会电话、钉、当面找你，不重要的事情晚点回复也无妨，没准在不回复的这段时间内对方已经摸索着自己解决了。</p><p><strong>更不用担心会错过什么大事情，因为一旦是需要你关心的大事情，总会顺着身边的人触达到你。</strong></p><h3 id="秘诀二：错峰学习"><a href="#秘诀二：错峰学习" class="headerlink" title="秘诀二：错峰学习"></a>秘诀二：错峰学习</h3><p>我<strong>每天要做的事情无非两类：</strong></p><ul><li><strong>思考：</strong>想事情该怎么做、代码该怎么写，总结和规划工作</li><li><strong>学习：</strong><ul><li>数学，英语，专业课</li><li>阅读，听演讲</li></ul></li></ul><p><strong>可利用时间：</strong></p><ul><li><strong>图书馆时间：</strong>最大可用时间</li><li><strong>碎片化时间：</strong>吃饭时等饭、睡前、晨起、路上</li></ul><p><strong>初步错峰 - 在合适的时间做合适的事情</strong></p><ul><li><strong>思考：</strong>随时随地均可，且无需协作，完全可以通过碎片化时间完成</li><li><strong>学习：</strong>需要安静的环境 + 充裕的时间，碎片化时间只能获取信息，不足以承载有效学习，适合图书馆时间</li></ul><p><strong>二度错峰 - 高效利用图书馆时间</strong></p><ul><li><strong>高度专注：</strong>数学，专业课，英语阅读，写代码</li><li><strong>中度专注：</strong>英语单词，学习DL，ML</li><li><strong>低度专注：</strong>处理邮件、聊天信息，写总结</li></ul><p>自己的身体状况</p><ul><li><strong>高效</strong>：<ul><li>7 30 — 9 30，2</li><li>10 00 — 11 30，1.5</li><li>13 00 — 17 00，4</li><li>18 00 — 22 00，4</li><li>23 00 — 00 00，1</li></ul></li><li><strong>困倦</strong><ul><li>9 30 — 10 00</li><li>12 30 — 13 00</li></ul></li><li><strong>可能和别人交流的时间</strong><ul><li>11 30 — 12 30</li><li>17 00 — 18 00</li><li>22 00 — 23 00</li></ul></li></ul><h3 id="秘诀三：倒排工作中止时间"><a href="#秘诀三：倒排工作中止时间" class="headerlink" title="秘诀三：倒排工作中止时间"></a>秘诀三：倒排工作中止时间</h3><h2 id="提高学习能力"><a href="#提高学习能力" class="headerlink" title="提高学习能力"></a>提高学习能力</h2><h3 id="秘诀一：优化学习工具和流程"><a href="#秘诀一：优化学习工具和流程" class="headerlink" title="秘诀一：优化学习工具和流程"></a>秘诀一：优化学习工具和流程</h3><h2 id="结"><a href="#结" class="headerlink" title="结"></a>结</h2><p><strong>过硬的技能</strong> + <strong>强大的工具</strong> + <strong>有效的工作时间</strong>能保证我们高效率完成工作，但并不保证一定有高产出，因为一旦方向走偏，效率越高反而离目标越远。</p><p>管理学大师德鲁克总结了一个管理原则：<a href="http://www.360doc.com/content/15/0518/09/17380219_471375473.shtml" target="_blank" rel="noopener">做正确的事</a>，精辟地道出了高效能的秘诀。但这个道理知易行难，考验的是一个人、一个组织的深层能力，对一个组织则尤为重要。</p><p>这些方法最终都落在<strong>「让自己专注在利用有限时间创造价值和提升自我」</strong>上，在其背后是需要修炼的三种能力，恰好对应三本书：</p><p><strong>心流</strong></p><p><a href="https://book.douban.com/subject/27186106/" target="_blank" rel="noopener">https://book.douban.com/subject/27186106/</a> </p><p>我们在做某些事情时，那种全神贯注、投入忘我的状态——这种状态下，你甚至感觉不到时间的存在，在这件事情完成之后我们会有一种充满能量并且非常满足的感受，其实很多时候我们在做自己非常喜欢、有挑战并且擅长的事情的时候，就很容易体验到心流，比如爬山、游泳、打球、玩游戏、阅读、演奏乐器还有工作的时候。</p><p><strong>自控力</strong></p><p><a href="https://book.douban.com/subject/10786473/" target="_blank" rel="noopener">https://book.douban.com/subject/10786473/</a> </p><p>提供了循序渐进的方法，帮助你认清自己的目标，增强自控力，并做出改变一生的决定——无论这个决定是减肥、管理收支、减缓压力、克服拖延症、成为好家长，还是找到你的生活重心。和自控力强相关的还有一本书：<a href="https://book.douban.com/subject/26895993/" target="_blank" rel="noopener">刻意练习</a>，没有它很难形成自控力。</p><p><strong>终身成长</strong></p><p><a href="https://book.douban.com/subject/27154533/" target="_blank" rel="noopener">https://book.douban.com/subject/27154533/</a> </p><p>我们获得的成功并不是能力和天赋决定的，更受到我们在追求目标的过程中展现的思维模式的影响。你认为才智和努力哪个重要，能力能否通过努力改变，决定了你是会满足于既有成果还是会积极探索新知。只有用正确的思维模式看待问题，才能更好地达成人生和职业目标。与之相关的还有一本书：<a href="https://book.douban.com/subject/30203060/" target="_blank" rel="noopener">终身学习</a>，讲的也是成长思维。仔细观察，不难发现：大学毕业是很多人学习的终点，少部分人能延续到工作后 5 年，能以初学者之心持续学习者非常少。所以，只要持续学习，一定会比那些停止学习的人走得更远。</p><p>工作是一项长跑，人生更是一项长跑。只要持续去探索和实践如何提升这三种能力，肯定能找到最适合自己的节奏，创造出更多的价值。</p><h2 id="A-Life-of-Productivity"><a href="#A-Life-of-Productivity" class="headerlink" title="A Life of Productivity"></a>A Life of Productivity</h2><p>有位叫 贤月 的读者推荐了一篇和本文观点类似的文章：<a href="https://mp.weixin.qq.com/s/OW6ES5i5hxpX6d-g057etQ" target="_blank" rel="noopener">如何从瞎忙族升级为高效牛人</a>，文章介绍了这本书：<a href="https://book.douban.com/subject/27080718/" target="_blank" rel="noopener">别让无效努力毁掉你</a>，英文名是<a href="https://alifeofproductivity.com/the-productivity-project/" target="_blank" rel="noopener"> The Productivity Project</a> 。作者是 <a href="https://alifeofproductivity.com/welcome/" target="_blank" rel="noopener">Chris Bailey</a>：专注于高效能方法的探索，他的研究成果备受媒体和企业关注，TED 大会也邀请他演讲 <a href="https://www.youtube.com/watch?v=Hu4Yvq-g7_Y" target="_blank" rel="noopener">How to Get Your Brain to Focus</a> ，并介绍他“<strong>可能是这个世界上最高效的人之一</strong>”。Bailey <a href="http://www.sohu.com/a/276933207_120019197" target="_blank" rel="noopener">也推崇心流理论</a>，这本书写的非常棒，看了书的目录才发现我讲的原来只是这本书的子集，感兴趣的同学可以深入学习。Bailey 的核心理念是这张图：</p><p><img src="https://tva1.sinaimg.cn/large/006y8mN6ly1g8sz6idldnj308c07xt91.jpg" alt=""></p><p>非常清晰地指明了的高效的关键在于：让 Time、Attention、Energy 的交集最大化。</p><p><strong>高效工作这个话题还可再往前推演一步：为什么做这份工作，属于我的天命究竟是什么？</strong>若能回答清楚这些人生终极问题，高效将是很自然的一件事，因为你的 Time、Attention、Energy 将会自动往你的天命聚拢，高效则是水到渠成的一件事。但这些问题绝非一朝一夕甚至在这一生就能想清楚，在没想清楚前，利用一些方法让当下的工作更高效才是正道，也只有这样才能让我们有更多的精力去探索世界、寻找天命。</p><p>人生短暂，光阴易逝，高效之路重在行动，希望每个人都能找到属于自己的高效之路。</p>]]></content>
     
