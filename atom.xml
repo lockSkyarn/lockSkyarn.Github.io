@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-11-27T02:21:35.191Z</updated>
+  <updated>2019-11-27T02:28:06.845Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/11/27/Structural-context%20Similarities%20for%20Uncertain%20Graphs/"/>
     <id>http://yoursite.com/2019/11/27/Structural-context Similarities for Uncertain Graphs/</id>
     <published>2019-11-27T02:14:09.000Z</published>
-    <updated>2019-11-27T02:21:35.191Z</updated>
+    <updated>2019-11-27T02:28:06.845Z</updated>
     
     <content type="html"><![CDATA[<p>本文为 Structural-context Similarities for Uncertain Graphs 一文的阅读笔记</p><a id="more"></a><h2 id="0-记录"><a href="#0-记录" class="headerlink" title="0. 记录"></a>0. 记录</h2><p>阅读了 Structural-context Similarities for Uncertain Graphs</p><p>论文笔记</p><h2 id="1-主旨"><a href="#1-主旨" class="headerlink" title="1. 主旨"></a>1. 主旨</h2><p><strong>解决什么问题？</strong></p><p>uncertainty is inherent in massive graph data, and therefore the classical deﬁnitions of structural-context similarities on exact graphs don’t make sense on uncertain graphs. </p><p>海量图数据本身就具有不确定性，因此确定图上的 structural-context similarities 的经典定义在不确定图上是没有意义的</p><h2 id="2-研究方法"><a href="#2-研究方法" class="headerlink" title="2. 研究方法"></a>2. 研究方法</h2><ol><li>研究的数据从哪里来？</li><li>研究中用到的重要指标有哪些？</li><li>模型分为哪几步？每一步分别得出了什么结论？</li></ol>]]></content>
     
@@ -38,6 +38,8 @@
       <category term="论文阅读" scheme="http://yoursite.com/tags/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB/"/>
     
       <category term="Uncertain Graph" scheme="http://yoursite.com/tags/Uncertain-Graph/"/>
+    
+      <category term="毕业论文" scheme="http://yoursite.com/tags/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87/"/>
     
   </entry>
   
